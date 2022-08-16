@@ -1,4 +1,4 @@
-# Univero dnme-minturdep en rOpenSci
+# Universo dnme-minturdep en [rOpenSci](https://ropensci.org/)
 
 Registro de packages para [r-universe](https://dnme-minturdep.r-universe.dev/ui#packages)
 
