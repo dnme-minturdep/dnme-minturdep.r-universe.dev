@@ -9,8 +9,22 @@
 
   { 
   
+    "package": "evyth", 
+    "url": "https://github.com/dnme-minturdep/evyth/" 
+   
+   } , 
+
+  { 
+  
     "package": "comunicacion", 
     "url": "https://github.com/dnme-minturdep/comunicacion/" 
+   
+   } , 
+
+  { 
+  
+    "package": "d4t4tur", 
+    "url": "https://github.com/dnme-minturdep/d4t4tur/" 
    
    } 
 
